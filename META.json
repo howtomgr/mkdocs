@@ -1,0 +1,61 @@
+{
+  "category": "documentation",
+  "created_date": "2025-09-15T22:48:58.225256",
+  "default_ports": [
+    80,
+    443,
+    8000
+  ],
+  "dependencies": [],
+  "description": "mkdocs is a free and open-source project documentation. MkDocs builds beautiful project documentation from Markdown",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/documentation/mkdocs",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/documentation/mkdocs",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.225283",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mkdocs",
+  "repository_url": "https://github.com/howtomgr/mkdocs",
+  "spec_version": "2.0",
+  "subcategory": "documentation",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "documentation",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "mkdocs Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/documentation/mkdocs"
+}
